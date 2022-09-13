@@ -12,4 +12,3 @@ headRightEl.addEventListener('click', ({target}) => {
 document.querySelector('.menu-close-btn').addEventListener('click', () => {
 dropDown.classList.toggle('none');
 });
-
